@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi, my name is Bianca Santiago 👋
 
-<!--
-**biancagssantiago/biancagssantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Aspiring+Data+Analyst;Turning+Data+into+Insights;Python+%7C+Excel+%7C+Power+BI+%7C+SQL)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Focus: Data Analysis and Business Intelligence fundamentals
+
+📗 Strongest Skill: Advanced Excel for data organization and analysis
+
+🐍 Currently Learning: Python fundamentals for data analysis
+
+🗄️ Currently Learning: SQL basic queries and database concepts
+
+📚 Enthusiast: Continuous learning in technology and data analysis
+
+🛠️ My Tech Stack
+
+Tools & Spreadsheets
+
+Excel (Advanced)
+
+Languages (Learning Phase)
+
+Python
+
+SQL
+
+Tools & Environments
+
+VS Code
+
+Git & GitHub
+
+🎯 Areas of Interest & Growth
+
+📊 Master Data Analysis using Python & SQL
+
+📈 Build interactive dashboards with Business Intelligence tools
+
+💡 Apply data-driven solutions to solve real-world problems
+
+🌱 Learning Progress
+
+Excel                 █████████░  Advanced
+
+Python                ███░░░░░░░  Basic / Learning
+
+SQL                   ███░░░░░░░  Basic / Learning
+
+Business Intelligence  ██░░░░░░░░  Starting Out
+
+💡 Goal
+
+Building a solid technical foundation in Data Science, combining analytical thinking with practical tools to transform data into impactful insights.
+
+📫 Let's Connect!
+
+💼 LinkedIn: (https://www.linkedin.com/in/biancagssantiago/)
+
+📧 Email: [biancasantiago1905@gmail.com]
+
+⭐ Thanks for visiting my profile!
